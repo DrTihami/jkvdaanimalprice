@@ -1,3 +1,3 @@
-scikitlearn
+scikit-learn
 streamlit
 pandas

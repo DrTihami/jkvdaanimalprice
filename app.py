@@ -1,6 +1,5 @@
 
 import streamlit as st
-import scikitlearn
 import pandas as pd
 import pickle
 import warnings
